@@ -1,0 +1,7 @@
+"Bidule" est un terme informel en français qui est souvent utilisé
+ pour désigner quelque chose dont on ne se rappelle pas ou dont 
+ on ne connaît pas le nom exact, ou pour désigner une chose de manière générique lorsque le nom
+ précis n'est pas important. C'est un mot utilisé de manière familière et informelle pour remplacer
+un nom ou pour désigner quelque chose de façon vague. Par exemple, si vous ne vous souvenez pas du
+nom d'un objet, vous pourriez dire "Passe-moi le bidule là-bas", ou si vous parlez d'un objet 
+dont vous ne connaissez pas le nom, vous pourriez dire "J'ai besoin d'un bidule pour réparer ça".
